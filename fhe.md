@@ -6,6 +6,8 @@ We use many methods to meet the requirements of zero-trust architecture aproach 
 To facilitate the use of cloud computing by data owners (federated organizations) to get the desired computations
 and analysis done on their sensitive data, while preserving the benefit of cloud computing, we identify tools supporting homomorhic encryption for confidential computing.
 
+
+
 ## fully-homomorphic-encryption by Google
 \url{https://www.nucypher.com/fully-homomorphic-encryption}
 Apache-2.0 License
